@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+@font-face{
+	font-family:nanumR;
+	src: local("NanumSquare_acR"),
+		url("../font/NanumSquare_acR.eot"),
+		url("../font/NanumSquare_acR.woff") format("woff"),
+		url("../font/NanumSquare_acR.TTF");
+}
